@@ -23,16 +23,6 @@ nav{
 
 }
 
-nav .icon-img {
-  height: 50px;
-  margin-top: 5px;
-  margin-bottom: 5px;
-  border-radius: 50%;
-  vertical-align: middle;
-  border: 1px solid black;
-}
-
-
 li{
 	display: inline-block;
 }
